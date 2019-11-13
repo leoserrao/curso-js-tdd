@@ -1,0 +1,24 @@
+{
+  "name": "curso-js-tdd",
+  "version": "1.0.0",
+  "description": "biblioteca curso TDD JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoserrao/curso-js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Léo Serrão Barbosa <leoserrao1981@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leoserrao/curso-js-tdd/issues"
+  },
+  "homepage": "https://github.com/leoserrao/curso-js-tdd#readme"
+}
