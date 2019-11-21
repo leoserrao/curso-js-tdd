@@ -1,0 +1,4 @@
+Instalação do Husky
+
+npm i lint-staged husky --save-dev
+
